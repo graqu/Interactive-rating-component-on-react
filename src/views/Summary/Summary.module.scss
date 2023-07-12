@@ -1,0 +1,17 @@
+.wrapper {
+	text-align: center;
+	flex-grow: 0;
+}
+.picture {
+	height: 100px;
+	width: auto;
+}
+.scoring {
+	margin: 30px auto 30px;
+    padding: 0.3em;
+    max-width: 200px;
+    border-radius: 20px / 50%;
+	background-color: hsla(216, 12%, 54%, 0.1);
+	color: hsl(25, 97%, 53%);
+    font-size: 16px;
+}
